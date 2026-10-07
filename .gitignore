@@ -1,0 +1,9 @@
+# Aether's local markers and its bare-wallpaper preview (preview.png is the real one)
+.aether-managed
+preview.jpg
+light.mode
+
+# Editor and OS clutter
+*.swp
+*~
+.DS_Store
